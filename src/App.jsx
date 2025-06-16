@@ -52,7 +52,7 @@ function App() {
   return (
     < >
       <div className="flex justify-center   ">
-        <div className="flex flex-col myborder bg-[#f5ebeb]  md:p-5 p-3 mt-10 md:mt-6 md:w-[55%] w-[95%] md:max-h-[555px] max-h-[655px] rounded-2xl">
+        <div className="flex flex-col myborder bg-[#f5ebeb]  md:p-5 p-3 mt-10 md:mt-6 md:w-[55%] w-[95%] md:max-h-[555px] max-h-[655px] rounded-xl">
           <Header />
           <div className="mt-5 mb-4  ">
             <input

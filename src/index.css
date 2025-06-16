@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+  @theme {
+  --breakpoint-md: 770px;
+
+}
+
+body{
+    background-color: #f0e8e8;
+}
+.myborder{
+    box-shadow: 3px 3px 13px 0.05px rgb(160, 159, 159);
+}
+.todoborder{
+    box-shadow: 1px 3px 7px 0.05px rgb(160, 159, 159);
+}
+.scrollbar::-webkit-scrollbar{
+   width: 0px;
+}
